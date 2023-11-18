@@ -1,6 +1,6 @@
 name: projet
 title: Projet
-version: 1.0
+version: '1.0'
 start_page: index.adoc
 nav:
 - modules/ROOT/nav.adoc
